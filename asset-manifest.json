@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/goit-project-camper/static/css/main.c18cae0c.css",
+    "main.js": "/goit-project-camper/static/js/main.6b67b67b.js",
+    "static/js/265.7e8bb4af.chunk.js": "/goit-project-camper/static/js/265.7e8bb4af.chunk.js",
+    "static/js/713.a0ce3bfe.chunk.js": "/goit-project-camper/static/js/713.a0ce3bfe.chunk.js",
+    "static/js/480.7f0eb06b.chunk.js": "/goit-project-camper/static/js/480.7f0eb06b.chunk.js",
+    "static/js/671.a1600a04.chunk.js": "/goit-project-camper/static/js/671.a1600a04.chunk.js",
+    "static/media/ac.svg": "/goit-project-camper/static/media/ac.328f9de754aa7e03df460765b3c64e0e.svg",
+    "static/media/camperAlcove.svg": "/goit-project-camper/static/media/camperAlcove.d19387a065efe5161a6842278dc8a102.svg",
+    "static/media/camperVan.svg": "/goit-project-camper/static/media/camperVan.3ce28d32377756f50addaec87f9c46e6.svg",
+    "static/media/camperInteg.svg": "/goit-project-camper/static/media/camperInteg.3c57f596f684ac9c99d342648df500bd.svg",
+    "static/media/carNotFound.jpg": "/goit-project-camper/static/media/carNotFound.d68fe3f84d9bd8a6e9e1.jpg",
+    "static/media/adult.svg": "/goit-project-camper/static/media/adult.37e0efcfe217507addb995f6030e9445.svg",
+    "static/media/fuel.svg": "/goit-project-camper/static/media/fuel.b56bc2ce24b64f5a57b102476a599201.svg",
+    "static/media/radio.svg": "/goit-project-camper/static/media/radio.80cc237aa49ecb76ee8ff13956b2b74e.svg",
+    "static/media/automatic.svg": "/goit-project-camper/static/media/automatic.bb847ce65f7293907994922e6de9d72c.svg",
+    "static/media/beds.svg": "/goit-project-camper/static/media/beds.892f9fc7f4ed9ab391d89f9c62b1a842.svg",
+    "static/media/hob.svg": "/goit-project-camper/static/media/hob.67c6c78b4eed68077ca8183fd29f661d.svg",
+    "static/media/heart.svg": "/goit-project-camper/static/media/heart.1f2386a681e538f857934e496fca3897.svg",
+    "index.html": "/goit-project-camper/index.html",
+    "static/media/star.svg": "/goit-project-camper/static/media/star.daa20adc38a46a17c6b14fd471c62a1e.svg",
+    "static/media/cd.svg": "/goit-project-camper/static/media/cd.a5116ced6d416b5689e7d83edb35e955.svg",
+    "static/media/tv.svg": "/goit-project-camper/static/media/tv.4855f40aff224713c6f2121435850e22.svg",
+    "static/media/map.svg": "/goit-project-camper/static/media/map.eb500cc54f71a70a658d2fa4ed9248ce.svg",
+    "static/media/shower.svg": "/goit-project-camper/static/media/shower.ad88a8d99c1a7e345154aaa8c70799cc.svg",
+    "static/media/kitchen.svg": "/goit-project-camper/static/media/kitchen.37b32c992327670ca22c67ecaecdd715.svg",
+    "static/media/close.svg": "/goit-project-camper/static/media/close.25dc3f46a342a188874fa545ced03ca2.svg",
+    "main.c18cae0c.css.map": "/goit-project-camper/static/css/main.c18cae0c.css.map",
+    "main.6b67b67b.js.map": "/goit-project-camper/static/js/main.6b67b67b.js.map",
+    "265.7e8bb4af.chunk.js.map": "/goit-project-camper/static/js/265.7e8bb4af.chunk.js.map",
+    "713.a0ce3bfe.chunk.js.map": "/goit-project-camper/static/js/713.a0ce3bfe.chunk.js.map",
+    "480.7f0eb06b.chunk.js.map": "/goit-project-camper/static/js/480.7f0eb06b.chunk.js.map",
+    "671.a1600a04.chunk.js.map": "/goit-project-camper/static/js/671.a1600a04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c18cae0c.css",
+    "static/js/main.6b67b67b.js"
+  ]
+}

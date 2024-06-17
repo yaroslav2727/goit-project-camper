@@ -16,13 +16,15 @@ export const capitalizeFirstLetter = text => {
 
 export const disableScrolling = isModalShowing => {
   if (isModalShowing) {
-    document.body.style.overflow = "hidden";
+    document.body.style.overflow = 'hidden';
+    document.body.style.paddingRight = '5px';
   } else {
-    document.body.style.overflow = "unset";
+    document.body.style.overflow = 'unset';
+    document.body.style.paddingRight = 'unset';
   }
 };
 
 export const getTodayFormatted = () => {
   const today = new Date();
-  return today.toISOString().split("T")[0];
+  return today.toISOString().split('T')[0];
 };

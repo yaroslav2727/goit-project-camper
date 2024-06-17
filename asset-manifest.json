@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/goit-project-camper/static/css/main.c18cae0c.css",
-    "main.js": "/goit-project-camper/static/js/main.6b67b67b.js",
+    "main.js": "/goit-project-camper/static/js/main.bc7c2b74.js",
     "static/js/265.7e8bb4af.chunk.js": "/goit-project-camper/static/js/265.7e8bb4af.chunk.js",
     "static/js/713.a0ce3bfe.chunk.js": "/goit-project-camper/static/js/713.a0ce3bfe.chunk.js",
     "static/js/480.7f0eb06b.chunk.js": "/goit-project-camper/static/js/480.7f0eb06b.chunk.js",
-    "static/js/671.a1600a04.chunk.js": "/goit-project-camper/static/js/671.a1600a04.chunk.js",
+    "static/js/671.767f1f6f.chunk.js": "/goit-project-camper/static/js/671.767f1f6f.chunk.js",
     "static/media/ac.svg": "/goit-project-camper/static/media/ac.328f9de754aa7e03df460765b3c64e0e.svg",
     "static/media/camperAlcove.svg": "/goit-project-camper/static/media/camperAlcove.d19387a065efe5161a6842278dc8a102.svg",
     "static/media/camperVan.svg": "/goit-project-camper/static/media/camperVan.3ce28d32377756f50addaec87f9c46e6.svg",
@@ -27,14 +27,14 @@
     "static/media/kitchen.svg": "/goit-project-camper/static/media/kitchen.37b32c992327670ca22c67ecaecdd715.svg",
     "static/media/close.svg": "/goit-project-camper/static/media/close.25dc3f46a342a188874fa545ced03ca2.svg",
     "main.c18cae0c.css.map": "/goit-project-camper/static/css/main.c18cae0c.css.map",
-    "main.6b67b67b.js.map": "/goit-project-camper/static/js/main.6b67b67b.js.map",
+    "main.bc7c2b74.js.map": "/goit-project-camper/static/js/main.bc7c2b74.js.map",
     "265.7e8bb4af.chunk.js.map": "/goit-project-camper/static/js/265.7e8bb4af.chunk.js.map",
     "713.a0ce3bfe.chunk.js.map": "/goit-project-camper/static/js/713.a0ce3bfe.chunk.js.map",
     "480.7f0eb06b.chunk.js.map": "/goit-project-camper/static/js/480.7f0eb06b.chunk.js.map",
-    "671.a1600a04.chunk.js.map": "/goit-project-camper/static/js/671.a1600a04.chunk.js.map"
+    "671.767f1f6f.chunk.js.map": "/goit-project-camper/static/js/671.767f1f6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c18cae0c.css",
-    "static/js/main.6b67b67b.js"
+    "static/js/main.bc7c2b74.js"
   ]
 }
